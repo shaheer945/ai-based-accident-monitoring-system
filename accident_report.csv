@@ -1,0 +1,20 @@
+Accident_Number,Frame,Timestamp,Reason
+1,27,0.54,Vehicles 11 and 9: Bounding-box overlap and sudden deceleration
+2,77,1.54,Vehicles 11 and 9: Bounding-box overlap and sudden deceleration
+3,109,2.19,Vehicles 11 and 9: Bounding-box overlap and sudden deceleration
+4,139,2.79,Vehicles 11 and 9: Bounding-box overlap and sudden deceleration
+5,173,3.47,Vehicles 11 and 9: Bounding-box overlap and sudden deceleration
+6,221,4.43,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+7,251,5.03,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+8,281,5.64,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+9,311,6.24,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+10,341,6.84,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+11,371,7.44,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+12,402,8.06,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+13,435,8.72,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+14,465,9.33,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+15,499,10.01,Vehicles 50 and 55: Bounding-box overlap and sudden deceleration
+16,530,10.63,Vehicles 3 and 80: Bounding-box overlap and sudden deceleration
+17,560,11.23,Vehicles 3 and 80: Bounding-box overlap and sudden deceleration
+18,590,11.83,Vehicles 3 and 80: Bounding-box overlap and sudden deceleration
+19,644,12.92,Vehicles 137 and 178: Bounding-box overlap and sudden deceleration
